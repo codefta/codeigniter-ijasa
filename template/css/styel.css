@@ -1,0 +1,34 @@
+/*navbar */
+.f-logout {
+    font-size: 1.3vw;
+}
+
+.nav-grad {
+    background-image: linear-gradient(to right, rgb(16, 15, 31), rgb(63, 97, 143) )
+}
+
+.nav-side {
+    background-color:  rgb(16, 15, 31);
+}
+
+.sidebar {
+    position: fixed;
+}
+
+.mt-6 {
+    margin-top: 4%;
+}
+
+.h-min-100 {
+    min-height: 100%;
+}
+
+.footer {
+    height: 50px;
+    width: 100% !important;
+}
+
+.bg-footer {
+    background-color: rgb(227, 226, 232);
+}
+
