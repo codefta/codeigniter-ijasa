@@ -48,4 +48,7 @@ build on Virtual box
 ************
 Installation
 ************
-![GitHub Logo](1.png)
+![ijasa](1.png)
+![ijasa](2.png)
+![ijasa](3.png)
+![ijasa](4.png)
