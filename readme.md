@@ -48,4 +48,4 @@ build on Virtual box
 ************
 Installation
 ************
-![Ijasa] (1.jpg)
+![GitHub Logo](1.png)
