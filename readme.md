@@ -1,6 +1,6 @@
-###################
+******************
 IJasa
-###################
+******************
 
 Aplikasi jalan sampai, Menampung donasi logistik di sebuah gudang dan menyalurkannya ke bencana yang dipilih oleh donatur
 
