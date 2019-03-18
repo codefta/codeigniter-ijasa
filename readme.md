@@ -54,5 +54,4 @@ Installation
 ![ijasa](4.png)
 ![ijasa](5.png)
 ![ijasa](6.png)
-![ijasa](7.png)
 ![ijasa](8.png)
